@@ -1,0 +1,11 @@
+{
+  "name": "teamsservice",
+  "version": "1.0.0",
+  "description": "Service to provide NBA teams metrics and data",
+  "main": "teamsbackend.js",
+  "scripts": {
+  "start" : "node teamsbackend.js"
+  },
+  "author": "Matt Kueper",
+  "license": "ISC"
+}
